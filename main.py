@@ -3,7 +3,7 @@ import logging
 import openpyxl
 from config import Token
 from aiogram import types
-from aiogram.types import Message
+# from aiogram.types import Message
 from aiogram.filters import Command
 from aiogram import Bot, Dispatcher, F
 
